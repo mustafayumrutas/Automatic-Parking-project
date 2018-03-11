@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274191509554",
+    "firebase_url": "https://cilgin-projem.firebaseio.com",
+    "project_id": "cilgin-projem",
+    "storage_bucket": "cilgin-projem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274191509554:android:fc42981874e451bd",
+        "android_client_info": {
+          "package_name": "app.androidparkapp.androidparkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274191509554-p1tfr77o4jc7b9spf4kfofhips402kjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.androidparkapp.androidparkapp",
+            "certificate_hash": "f2cac524ff970bd62c6e7b6ef1e7b0105e8703c8"
+          }
+        },
+        {
+          "client_id": "274191509554-c6jc9le70d4qai1lokb8vqjv5qto92b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWtBkpn7fd2iMQeBmI3EQUK9KFQww5og"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274191509554-c6jc9le70d4qai1lokb8vqjv5qto92b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
